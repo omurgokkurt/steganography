@@ -26,3 +26,6 @@ python steg.py decode image.png
 The painting *Still-Life with a Skull* by Philippe De Champaigne, containing the 232,051 characters long *Meditations* by Marcus Aurelius (Shout out to my homie Marcus and also https://www.gutenberg.org)
 
 ![*Still-Life with a Skull* by Philippe De Champaigne](https://raw.githubusercontent.com/omurgokkurt/steganography/main/memento_mori_encoded.png)
+
+The original image, for comparison
+![*Still-Life with a Skull* by Philippe De Champaigne](https://raw.githubusercontent.com/omurgokkurt/steganography/main/memento_mori.png)
