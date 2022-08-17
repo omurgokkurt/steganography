@@ -3,7 +3,7 @@ https://github.com/omurgokkurt/steganography
 Storing 6 bits of data in each pixel of an image. Capable of encoding a large text file into a .png and decoding it.
 
 ## how it works:
-We are normalizing each RGB channel value to value % 4 = 0, thus each channel gives us 2 bits to store data in it. Manipulating a channel value in a such  insignificant range (1 to 3) practically creates no visual difference to the human eye.
+We normalize each RGB channel value to value % 4 = 0, thus each channel gives us 2 bits to store data in it. Manipulating a channel value in a such  insignificant range (1 to 3) practically creates no visual difference to the human eye. Number of pseudo-bits allocated could be increased, in exchange of "deep frying" the image
 
 
 ## usage:
