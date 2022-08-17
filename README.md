@@ -23,5 +23,5 @@ python steg.py decode image.png
 ```
 
 ## example output:  
-The painting "Still-Life with a Skull" by Philippe De Champaigne, containing the 232,051 characters long *Meditations* by Marcus Aurelius: 
+The painting *Still-Life with a Skull* by Philippe De Champaigne, containing the 232,051 characters long *Meditations* by Marcus Aurelius (Shout out to my homie Marcus and also https://www.gutenberg.org)
 
